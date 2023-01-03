@@ -1,2 +1,20 @@
 # MetaBi
-Com análise de dados, leve o seu empreendimento a outro patamar.
+
+![preview](./github/preview.png)
+
+> MetaBI
+
+Projeto construido para a empresa MetaBi .
+
+[Clique aqui para acessar](https://nlw-esports-explorer-three.vercel.app/)
+
+## Tecnologias
+
+- HTML
+- CSS
+- JAVASCRIPT
+- Git e Github
+
+## Contato
+
+@lucas.ds_dev
