@@ -104,8 +104,6 @@ ScrollReveal({
   distance: '30px',
   duration: 700
 }).reveal(`
-#home .banner-one,
-#home .button,
 #services .col-a,
 #services .card,
 #technologies .col-a,
